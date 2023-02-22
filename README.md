@@ -1,0 +1,6 @@
+# Raspberry_pico
+Repositorio de todos los proyectos de PICO
+
+EL rasberry PI PICO es unos de mis favoritos super poderosos microprocesadores favoritos.
+
+Aca iré dejando pequeños estractos o microproyectos de baja relevancia pero sin duda alguna divertidos para todo aquel que ama crear y diseñar.
